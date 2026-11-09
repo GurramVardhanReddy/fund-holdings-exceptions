@@ -1,0 +1,14 @@
+[project]
+name = "fund-holdings-exceptions"
+version = "0.1.0"
+description = "Standardise public UCITS fund holdings from several providers and flag data-quality and concentration exceptions."
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "B", "BLE", "ISC"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

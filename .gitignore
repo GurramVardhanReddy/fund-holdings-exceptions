@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+# Downloaded provider files and the local database are rebuilt by scripts/fetch.sh.
+data/raw/
+data/*.duckdb
+data/*.duckdb.wal
+logs/

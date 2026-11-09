@@ -1,0 +1,4 @@
+source_id,provider,kind,url
+ishares_SWDA,ishares,ishares_csv,https://www.ishares.com/uk/individual/en/products/251882/ishares-core-msci-world-ucits-etf/latest-holdings.csv
+ishares_IUIT,ishares,ishares_csv,https://www.ishares.com/uk/individual/en/products/280510/ishares-sp-500-information-technology-sector-ucits-etf/latest-holdings.csv
+spdr_ie_all,spdr,spdr_zip,https://www.ssga.com/ie/en_gb/intermediary/library-content/products/fund-data/etfs/emea/emea-spdrs-allholdings-ie-daily.zip
